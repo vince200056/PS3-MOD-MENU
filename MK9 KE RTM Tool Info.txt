@@ -1,0 +1,94 @@
+Update 08/07/2019
+
+*Side View X-RAY is Now (Side View Cam):
+Do no't use Side View Cam with (Kung Lao) 
+Screen will go Black. But 
+The Menu Option will still be available
+If you need to Select Another Fighter.
+
+* Trip Out X-Ray/Cam: 
+Was Pointless basically it was the same as 
+Side View Cam it just Glitch In & Out.
+
+* Life Bar On/Off:
+Only Works on (Lower Game Update (For Now)
+(Is Now only one Button for On/Off)
+
+* ADDED Start at (Challenge Tower 300)
+You now have Free Roaming of The Full Challenge Tower
+
+* Infinite Timer
+Is Lock on (666) When Check
+UnCheck it Counts Down from 666
+
+* AUTO FATALITY:
+Works Now on (Game Update 1.07) Big Thanks to haxxxen Over @ psx-place
+-------------------------------------------------------
+-------------------------------------------------------
+*Both for Player 1&2 (Bosses & NPC Fighters)
+
+Base Male = Classic Noob Sabit 
+Bug Me/ Cyborg = Classic Smoke
+Classic NPC_Reptile = Classic Reptile
+Generic Fighter A = Kung Lao
+Generic Fighter B =  Liu Kang
+GORO = Raiden
+JC Director = Johnny Cage
+NPC Jade = MK3 Jade
+Kintaro = Kratos
+NPC Noob = MK2 Noob Sabit
+NPC Smoke = MK2 Smoke
+Oni = Shang Tsung
+Sho Kahn = Shang Tsung
+Tarkatan = Baraka
+
+------------------------
+------------------------
+On No Game Update
+*Works*
+P1 & p2 Death
+p1 & p2 Health max
+Blood Changing Kombat
+No Blood
+Side View Cam
+Life Bar On & Off
+Auto Fatality On & Off
+Fatality Timer On & Off
+Stages
+
+*Dose Not Work*
+Infinity Timer 666
+P1 & P2 Meter Max
+Start At CT 300
+Gold 999999
+P1 & P2 Select
+---------------------------
+On Game Update v1.07
+*Works
+P1 & p2 Death
+p1 & p2 Health max
+P1 & P2 Meter Max
+Locked Infinity Timer 666
+Start at CT 300
+Gold 999999
+Side View Cam
+Auto Fatality On/Off
+P1 & P2 Select
+Stage Select
+
+*Dose Not Work*
+Blood Change Kombat
+No Blood 
+Life Bar On/Off
+Infinity Fatality Timer On/Off
+-------------------------------
+-------------------------------
+Big Thanks To:
+Scorpion2k7, Tetzrep, Gildor,
+Luigi Auriemma, opticky, oubgrdevvbuyn, 
+digitaloverdose a.k.a darksoul,
+futuretime23, rstabbs71, frikkiefrikkie,
+TimeRevolver0314, AlexDC22, DJBUDA, 
+HowardC, Rich246, unclefestor, etc...
+And to everyone within The Mortal Kombat  
+Community/Scene!

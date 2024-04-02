@@ -17,8 +17,10 @@ body, html {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('Project.jpg'); /* Replace 'background-image.jpg' with your image file path */
-    background-size: cover;
+    background-image: url('Project.jpg'); /* Remplacez 'Project.jpg' par le chemin de votre image */
+    background-size: contain; /* Redimensionne l'image pour s'adapter à la taille de son conteneur sans déformation */
+    background-repeat: no-repeat; /* Empêche l'image de se répéter */
+    background-position: center; /* Centre l'image horizontalement et verticalement */
 }
 
 .content {
